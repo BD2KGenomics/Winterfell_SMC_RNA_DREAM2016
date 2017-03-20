@@ -8,7 +8,7 @@ class: CommandLineTool
 requirements:
   - class: InlineJavascriptRequirement
   - class: DockerRequirement
-    dockerPull: dreamchallenge/star
+    dockerPull: quay.io/ucsc_cgl/dockstore_tool_star_fusion
 
 inputs:
 

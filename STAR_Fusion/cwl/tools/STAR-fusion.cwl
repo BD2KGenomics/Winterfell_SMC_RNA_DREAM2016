@@ -7,7 +7,7 @@ class: CommandLineTool
 requirements:
   - class: InlineJavascriptRequirement
   - class: DockerRequirement
-    dockerPull: winterfelldream2016/fusionpipe:0.0.2
+    dockerPull: quay.io/ucsc_cgl/dockstore_tool_star_fusion
 
 inputs:
 
